@@ -12,13 +12,14 @@ Mobile 2 – API and Data
 
 Aplicativo que consome dados de uma API externa e exibe informações em tempo real.
 
-📚 Aprendizados:
+📚 Aprendizados nesta etapa:
 
-- Requisições HTTP (GET, POST)
+- Requisições HTTP (GET, POST).
 
-- Uso de async/await
+- Uso de async/await.
 
-- Tratamento de erros e respostas assíncronas
+- Tratamento de erros e respostas assíncronas.
+
 
 🧠 Conteúdos aprendidos na criação do aplicativo:
 
@@ -31,3 +32,7 @@ Aplicativo que consome dados de uma API externa e exibe informações em tempo r
 - Uso de geolocalização e permissões no mobile.
 
 - Organização de projeto, controle assíncrono e estilização de UI.
+
+Tecnologia utilizada:
+
+- Flutter (Dart)
